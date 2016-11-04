@@ -1,0 +1,19 @@
+D:\Projects\WebApplication3\DAL\bin\Debug\DAL.dll
+D:\Projects\WebApplication3\DAL\bin\Debug\DAL.pdb
+D:\Projects\WebApplication3\DAL\obj\Debug\DAL.dll
+D:\Projects\WebApplication3\DAL\obj\Debug\DAL.pdb
+E:\WebApplication3\DAL\bin\Debug\DAL.dll
+E:\WebApplication3\DAL\bin\Debug\DAL.pdb
+E:\WebApplication3\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\WebApplication3\DAL\obj\Debug\DAL.dll
+E:\WebApplication3\DAL\obj\Debug\DAL.pdb
+D:\WebApplication3\DAL\bin\Debug\DAL.dll
+D:\WebApplication3\DAL\bin\Debug\DAL.pdb
+D:\WebApplication3\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\WebApplication3\DAL\obj\Debug\DAL.dll
+D:\WebApplication3\DAL\obj\Debug\DAL.pdb
+C:\Users\Gs Computer\Desktop\WebApplication3\DAL\bin\Debug\DAL.dll
+C:\Users\Gs Computer\Desktop\WebApplication3\DAL\bin\Debug\DAL.pdb
+C:\Users\Gs Computer\Desktop\WebApplication3\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Gs Computer\Desktop\WebApplication3\DAL\obj\Debug\DAL.dll
+C:\Users\Gs Computer\Desktop\WebApplication3\DAL\obj\Debug\DAL.pdb

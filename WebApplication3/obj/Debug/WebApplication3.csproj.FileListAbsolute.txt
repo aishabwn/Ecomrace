@@ -1,0 +1,45 @@
+D:\Projects\WebApplication3\WebApplication3\bin\WebApplication3.dll
+D:\Projects\WebApplication3\WebApplication3\bin\WebApplication3.pdb
+D:\Projects\WebApplication3\WebApplication3\obj\Debug\WebApplication3.dll
+D:\Projects\WebApplication3\WebApplication3\obj\Debug\WebApplication3.pdb
+D:\Projects\WebApplication3\WebApplication3\obj\Debug\WebApplication3.csprojResolveAssemblyReference.cache
+D:\Projects\WebApplication3\WebApplication3\bin\BLL.dll
+D:\Projects\WebApplication3\WebApplication3\bin\DAL.dll
+D:\Projects\WebApplication3\WebApplication3\bin\BLL.pdb
+D:\Projects\WebApplication3\WebApplication3\bin\DAL.pdb
+E:\saveHere\WebApplication3\WebApplication3\bin\WebApplication3.dll
+E:\saveHere\WebApplication3\WebApplication3\bin\WebApplication3.pdb
+E:\saveHere\WebApplication3\WebApplication3\bin\BLL.dll
+E:\saveHere\WebApplication3\WebApplication3\bin\DAL.dll
+E:\saveHere\WebApplication3\WebApplication3\bin\BLL.pdb
+E:\saveHere\WebApplication3\WebApplication3\bin\DAL.pdb
+E:\saveHere\WebApplication3\WebApplication3\obj\Debug\WebApplication3.csprojResolveAssemblyReference.cache
+E:\saveHere\WebApplication3\WebApplication3\obj\Debug\WebApplication3.dll
+E:\saveHere\WebApplication3\WebApplication3\obj\Debug\WebApplication3.pdb
+E:\WebApplication3\WebApplication3\bin\WebApplication3.dll
+E:\WebApplication3\WebApplication3\bin\WebApplication3.pdb
+E:\WebApplication3\WebApplication3\bin\BLL.dll
+E:\WebApplication3\WebApplication3\bin\DAL.dll
+E:\WebApplication3\WebApplication3\bin\BLL.pdb
+E:\WebApplication3\WebApplication3\bin\DAL.pdb
+E:\WebApplication3\WebApplication3\obj\Debug\WebApplication3.csprojResolveAssemblyReference.cache
+E:\WebApplication3\WebApplication3\obj\Debug\WebApplication3.dll
+E:\WebApplication3\WebApplication3\obj\Debug\WebApplication3.pdb
+D:\WebApplication3\WebApplication3\bin\WebApplication3.dll
+D:\WebApplication3\WebApplication3\bin\WebApplication3.pdb
+D:\WebApplication3\WebApplication3\bin\BLL.dll
+D:\WebApplication3\WebApplication3\bin\DAL.dll
+D:\WebApplication3\WebApplication3\bin\BLL.pdb
+D:\WebApplication3\WebApplication3\bin\DAL.pdb
+D:\WebApplication3\WebApplication3\obj\Debug\WebApplication3.csprojResolveAssemblyReference.cache
+D:\WebApplication3\WebApplication3\obj\Debug\WebApplication3.dll
+D:\WebApplication3\WebApplication3\obj\Debug\WebApplication3.pdb
+C:\Users\Gs Computer\Desktop\WebApplication3\WebApplication3\bin\WebApplication3.dll
+C:\Users\Gs Computer\Desktop\WebApplication3\WebApplication3\bin\WebApplication3.pdb
+C:\Users\Gs Computer\Desktop\WebApplication3\WebApplication3\bin\BLL.dll
+C:\Users\Gs Computer\Desktop\WebApplication3\WebApplication3\bin\DAL.dll
+C:\Users\Gs Computer\Desktop\WebApplication3\WebApplication3\bin\BLL.pdb
+C:\Users\Gs Computer\Desktop\WebApplication3\WebApplication3\bin\DAL.pdb
+C:\Users\Gs Computer\Desktop\WebApplication3\WebApplication3\obj\Debug\WebApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Gs Computer\Desktop\WebApplication3\WebApplication3\obj\Debug\WebApplication3.dll
+C:\Users\Gs Computer\Desktop\WebApplication3\WebApplication3\obj\Debug\WebApplication3.pdb

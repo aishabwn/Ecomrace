@@ -1,0 +1,28 @@
+D:\Projects\WebApplication3\BLL\bin\Debug\BLL.dll
+D:\Projects\WebApplication3\BLL\bin\Debug\BLL.pdb
+D:\Projects\WebApplication3\BLL\bin\Debug\DAL.dll
+D:\Projects\WebApplication3\BLL\bin\Debug\DAL.pdb
+D:\Projects\WebApplication3\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\Projects\WebApplication3\BLL\obj\Debug\BLL.dll
+D:\Projects\WebApplication3\BLL\obj\Debug\BLL.pdb
+E:\WebApplication3\BLL\bin\Debug\BLL.dll
+E:\WebApplication3\BLL\bin\Debug\BLL.pdb
+E:\WebApplication3\BLL\bin\Debug\DAL.dll
+E:\WebApplication3\BLL\bin\Debug\DAL.pdb
+E:\WebApplication3\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\WebApplication3\BLL\obj\Debug\BLL.dll
+E:\WebApplication3\BLL\obj\Debug\BLL.pdb
+D:\WebApplication3\BLL\bin\Debug\BLL.dll
+D:\WebApplication3\BLL\bin\Debug\BLL.pdb
+D:\WebApplication3\BLL\bin\Debug\DAL.dll
+D:\WebApplication3\BLL\bin\Debug\DAL.pdb
+D:\WebApplication3\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\WebApplication3\BLL\obj\Debug\BLL.dll
+D:\WebApplication3\BLL\obj\Debug\BLL.pdb
+C:\Users\Gs Computer\Desktop\WebApplication3\BLL\bin\Debug\BLL.dll
+C:\Users\Gs Computer\Desktop\WebApplication3\BLL\bin\Debug\BLL.pdb
+C:\Users\Gs Computer\Desktop\WebApplication3\BLL\bin\Debug\DAL.dll
+C:\Users\Gs Computer\Desktop\WebApplication3\BLL\bin\Debug\DAL.pdb
+C:\Users\Gs Computer\Desktop\WebApplication3\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Gs Computer\Desktop\WebApplication3\BLL\obj\Debug\BLL.dll
+C:\Users\Gs Computer\Desktop\WebApplication3\BLL\obj\Debug\BLL.pdb
